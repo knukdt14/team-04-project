@@ -86,5 +86,3 @@ team-04-project/
 ├── model_c/     # C담당: 문서 분할 전략 비교 (Document Retrieval)
 └── model_d/     # D담당: 벡터스토어/검색 알고리즘 비교 (Semantic Search)
 ```
-
-각 담당 폴더의 세부 실행 방법은 폴더 내 `README.md`를 참고하세요.
