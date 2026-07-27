@@ -1,0 +1,49 @@
+# common
+python-dotenv
+jupyter
+notebook
+ipykernel
+ipywidgets
+matplotlib
+seaborn
+numpy
+scipy
+pandas
+scikit-learn
+
+# machinelearning
+torch
+torchvision
+torchaudio
+
+# model
+huggingface_hub
+transformers
+datasets
+accelerate
+evaluate
+sentence-transformers
+llama-index
+chromadb
+faiss-cpu
+pinecone
+gensim
+rank-bm25
+langchain
+langchain-core
+langchain-community
+langchain-classic
+langchain-openai
+langchain-huggingface
+langchain-chroma
+langchain-pinecone
+pymupdf
+bert-score
+ragas
+
+# web
+flask
+fastapi
+uvicorn
+streamlit
+httpie
