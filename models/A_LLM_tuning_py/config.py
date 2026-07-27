@@ -20,5 +20,5 @@ CONFIG = {
     ),
 }
 
-PDF_PATH = str(PROJECT_ROOT / "models" / "자동차관리법.pdf")
+PDF_PATH = str(PROJECT_ROOT / "data" / "자동차관리법.pdf")
 EVAL_DIR = str(PROJECT_ROOT / "models" / "eval")
