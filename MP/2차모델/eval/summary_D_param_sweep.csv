@@ -1,6 +1,0 @@
-﻿label,chunk_size,chunk_overlap,splitter,embedding_model,embedding_normalize,distance_metric,llm_model,temperature,search_type,top_k,vectorstore_engine,bertscore_f1,faithfulness,answer_relevancy,context_precision,context_recall,response_time_sec,hallucination_count
-cosine_k3,500,50,recursive,jhgan/ko-sroberta-multitask,True,cosine,Qwen/Qwen2.5-1.5B-Instruct,0,similarity,3,chroma,0.4959300458431244,,,,,20.15465121269226,0
-l2_k3,500,50,recursive,jhgan/ko-sroberta-multitask,True,l2,Qwen/Qwen2.5-1.5B-Instruct,0,similarity,3,chroma,0.4959300458431244,,,,,19.780982780456544,0
-ip_k3,500,50,recursive,jhgan/ko-sroberta-multitask,True,ip,Qwen/Qwen2.5-1.5B-Instruct,0,similarity,3,chroma,0.4959300458431244,,,,,19.64666473865509,0
-cosine_k5,500,50,recursive,jhgan/ko-sroberta-multitask,True,cosine,Qwen/Qwen2.5-1.5B-Instruct,0,similarity,5,chroma,0.4951556742191315,,,,,24.297759461402894,0
-cosine_k10,500,50,recursive,jhgan/ko-sroberta-multitask,True,cosine,Qwen/Qwen2.5-1.5B-Instruct,0,similarity,10,chroma,0.4951556742191315,,,,,40.86422061920166,0

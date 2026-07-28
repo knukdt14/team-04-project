@@ -1,7 +1,0 @@
-﻿label,chunk_size,chunk_overlap,splitter,embedding_model,embedding_normalize,distance_metric,llm_model,temperature,search_type,top_k,vectorstore_engine,bertscore_f1,faithfulness,answer_relevancy,context_precision,context_recall,response_time_sec,hallucination_count
-baseline_similarity_chroma,500,50,recursive,jhgan/ko-sroberta-multitask,True,cosine,Qwen/Qwen2.5-1.5B-Instruct,0,similarity,3,chroma,0.524361988902092,,,,,25.08970899581909,0
-mmr_chroma,500,50,recursive,jhgan/ko-sroberta-multitask,True,cosine,Qwen/Qwen2.5-1.5B-Instruct,0,mmr,3,chroma,0.5287866026163102,,,,,27.91670744419098,0
-score_threshold_chroma,500,50,recursive,jhgan/ko-sroberta-multitask,True,cosine,Qwen/Qwen2.5-1.5B-Instruct,0,similarity_score_threshold,3,chroma,0.4959300458431244,,,,,20.114858746528625,0
-similarity_faiss,500,50,recursive,jhgan/ko-sroberta-multitask,True,cosine,Qwen/Qwen2.5-1.5B-Instruct,0,similarity,3,faiss,0.524361988902092,,,,,25.552063512802125,0
-mmr_faiss,500,50,recursive,jhgan/ko-sroberta-multitask,True,cosine,Qwen/Qwen2.5-1.5B-Instruct,0,mmr,3,faiss,0.5211991965770721,,,,,23.499267625808717,0
-similarity_pinecone,500,50,recursive,jhgan/ko-sroberta-multitask,True,cosine,Qwen/Qwen2.5-1.5B-Instruct,0,similarity,3,pinecone,0.524361988902092,,,,,25.50001757144928,0
