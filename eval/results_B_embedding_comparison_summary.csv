@@ -1,0 +1,10 @@
+﻿embedding_model,mean_bertscore_f1,mean_response_time_sec
+nlpai-lab/KoE5,0.6714879155158997,13.7347
+nlpai-lab/KURE-v1,0.6623952746391296,11.6053
+BAAI/bge-m3,0.6356967210769653,13.356900000000001
+intfloat/multilingual-e5-base,0.6346610903739929,12.234300000000001
+dragonkue/BGE-m3-ko,0.6286995828151702,18.4976
+intfloat/multilingual-e5-large,0.624201649427414,13.2847
+upskyy/bge-m3-korean,0.6218849271535873,16.3293
+jhgan/ko-sroberta-multitask,0.6039129972457886,13.250499999999999
+sentence-transformers/paraphrase-multilingual-mpnet-base-v2,0.581863957643509,14.965100000000001
